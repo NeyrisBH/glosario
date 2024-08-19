@@ -26,7 +26,8 @@ Este proyecto es un glosario interactivo que contiene definiciones de términos 
 
 ## Capturas de Pantalla
 
-Adjunte aquí capturas de pantalla del proyecto en diferentes dispositivos (opcional).
+![imagen](https://github.com/user-attachments/assets/a280afa7-449b-44f1-83b2-5fb0035d6e74)
+
 
 ## Autor
 
